@@ -7,8 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.0  | :white_check_mark: |
+| Beta 0.1| :white_check_mark: |
 
+:white_check_mark: = Supported
+:x: = Not supported
 
 ## Reporting a Vulnerability
 
@@ -19,4 +21,4 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
 
-":x: "
+
