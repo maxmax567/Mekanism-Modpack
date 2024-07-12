@@ -1,1 +1,1 @@
-Mekanism modpack for version 1.19.2
+Mekanism modpack for Minecraft 1.19.2
