@@ -5,7 +5,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| Beta 0.1| :white_check_mark: |
+| 1.19.2 - 1| :white_check_mark: |
 
 :white_check_mark: = Supported
 :x: = Not supported
